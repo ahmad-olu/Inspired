@@ -1,0 +1,26 @@
+class BookGenre {
+  static const List<String> genre = [
+    'Action & Adventure',
+    'Classics',
+    'Comic Book and Graphic Novel',
+    'Detective and Mystery',
+    'Fantasy',
+    'Historical Fiction',
+    'Horror',
+    'Literary Fiction',
+    'Romance',
+    'Science Fiction [Sci-fi]',
+    'Short Stories',
+    'Suspense and Thrillers',
+    "Women's Fiction",
+    'Biographies & Autobiographies',
+    'CookBooks',
+    'Essays',
+    'History',
+    'Memoir',
+    'Poetry',
+    'Self-Help',
+    'True Crime',
+    'Poems',
+  ];
+}
