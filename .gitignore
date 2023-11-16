@@ -90,7 +90,6 @@ coverage/
 packages/**/pubspec.lock
 
 # Web related
-lib/generated_plugin_registrant.dart
 
 # Symbolication related
 app.*.symbols
@@ -114,3 +113,5 @@ app.*.map.json
 
 lib/app/constants/appwrite_const.dart
 lib/app/constants/app_assets.dart
+
+upload-keystore.jks
